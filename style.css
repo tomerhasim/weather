@@ -249,6 +249,14 @@ footer .footer-rights {
     text-align: center;
   }
   .footer-rights p {
-    font-size: 13px;
+    font-size: 10px;
+  }
+  .footer-second ul li{
+    margin-top: 13px;
+    margin-left: 20px;
+    display: flex;
+  }
+  .footer-first h3{
+    margin-top: 35px;
   }
 }
