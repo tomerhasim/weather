@@ -196,7 +196,7 @@ footer .footer-rights {
   }
 
   #element {
-    margin-left: 150px;
+    margin-left: 130px;
     font-size: 15px;
     text-align: center;
   }
@@ -205,6 +205,7 @@ footer .footer-rights {
     margin-left: 0px;
     text-align: center;
     margin-left: 25px;
+     font-size: 15px;
   }
   .secondsection {
     text-align: center;
